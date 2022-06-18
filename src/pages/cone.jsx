@@ -10,14 +10,13 @@ const Page = (props) => {
   return (
     <>
       <h2>a cone here</h2>
-      <Instructions />
     </>
   )
 }
 
 Page.r3f = (props) => (
   <>
-    <Cone route='/cone' />
+    <Cone route='/' />
   </>
 )
 

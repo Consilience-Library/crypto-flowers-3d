@@ -18,7 +18,7 @@ const Page = (props) => {
   return (
     <>
       <IntroToFlowers />
-      <Instructions />
+      {/* <Instructions /> */}
     </>
   )
 }
